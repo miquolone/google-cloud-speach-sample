@@ -1,0 +1,15 @@
+{
+  "name": "SpeachToTextExample",
+  "version": "0.0.2",
+  "main": "speachToTextExample.js",
+  "author": "miquolone",
+  "license": "none",
+  "dependencies": {
+    "@google-cloud/speech": "^4.8.0",
+    "@google-cloud/text-to-speech": "^3.3.0",
+    "ora": "^5.4.1",
+    "yargs": "^17.1.1"
+  },
+  "devDependencies": {
+  }
+}
